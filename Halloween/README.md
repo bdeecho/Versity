@@ -30,6 +30,8 @@ Chaque partie sera enregistré, et une caméra filmera le joueur (caméra noctur
 
 Pour la VR, étant donnée l'immersion totale dans le jeu, plusieurs niveaux de jeu de peur sera proposé au participant (il parait que la VR n'est pas intégré sur certains jeu d'horreur puisque ça peut causer des crises cardiaques lel). Il faudra bien prévenir les participants à ce sujet.
 
+Éventuellement, pour les participants qui patientent à l'extérieur, on peut retransmettre en directe la vidéo des gens qui jouet (mais uniquement ça, sinon ils seront spoils sur le jeu).
+
 #### Liste des jeux
 
 ##### VR
